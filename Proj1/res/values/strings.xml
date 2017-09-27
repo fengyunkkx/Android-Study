@@ -3,5 +3,6 @@
 
     <string name="app_name">项目一：构建 Android 开发环境</string>
     <string name="hello">欢迎学习 Android 开发 \n Android 开发环境包括： \n 1.JAVA SDK \n 2.Eclipse \n 3.Android SDK \n 4.ADT \n 5.AVD 模拟器</string>
+    <string name="hey">这是第一个 Android 应用</string>
 
 </resources>
