@@ -1,0 +1,15 @@
+package zyl.android.proj2;
+
+import android.app.Activity;
+import android.os.Bundle;
+
+public class P201Activity extends Activity{
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		EditText nicknameET = (EditText)findViewById(R.id.nickname);
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.p201);
+		
+	}
+
+}
