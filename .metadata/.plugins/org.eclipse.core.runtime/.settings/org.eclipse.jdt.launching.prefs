@@ -1,3 +1,3 @@
-#Fri Sep 29 21:09:11 CST 2017
+#Fri Sep 29 22:16:46 CST 2017
 eclipse.preferences.version=1
-org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1506690551195" defaultVMConnector\="">\r\n<vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\r\n<vm id\="1506665891511" name\="jre1.8.0_66" path\="C\:\\Program Files\\Java\\jre1.8.0_66"/>\r\n<vm id\="1506690551195" javadocURL\="http\://download.oracle.com/javase/7/docs/api/" name\="eclipse" path\="C\:\\android403\\eclipse"/>\r\n</vmType>\r\n</vmSettings>\r\n
+org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1506690551195" defaultVMConnector\="">\r\n<vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\r\n<vm id\="1506690551195" name\="eclipse" path\="C\:\\android403\\eclipse"/>\r\n</vmType>\r\n</vmSettings>\r\n
