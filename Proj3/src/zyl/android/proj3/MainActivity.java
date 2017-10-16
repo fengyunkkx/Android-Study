@@ -40,6 +40,11 @@ public class MainActivity extends Activity {
 					Intent intent1 = new Intent(MainActivity.this,P3Activity.class);
 					startActivity(intent1);
 				}
+				if(arg2==3)
+				{
+					Intent intent1 = new Intent(MainActivity.this,P4Activity.class);
+					startActivity(intent1);
+				}
         
 			}
         });
