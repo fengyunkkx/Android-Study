@@ -4,10 +4,39 @@
     android:layout_height="match_parent"
     android:orientation="vertical" >
 
+	<!--  
+	*  带确定和取消的对话框
+ 	*  带列表的对话框
+ 	*  带单选列表项的对话框
+ 	*  带多选列表项的对话框
+    -->
+    
     <Button
         android:id="@+id/button1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="按钮" />
+        android:onClick="click1"
+        android:text="带确定和取消的对话框" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="click2"
+        android:text="带列表的对话框" />
+
+	<Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="click3"
+        android:text="带单选列表项的对话框" />
+	
+	<Button
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="click4"
+        android:text="带多选列表项的对话框" />
 
 </LinearLayout>

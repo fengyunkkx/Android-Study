@@ -8,12 +8,22 @@
         android:id="@+id/button1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="显示通知" />
+        android:onClick="click1"
+        android:text="显示第一个通知" />
 
     <Button
         android:id="@+id/button2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="删除通知" />
+        android:onClick="click2"
+        android:text="显示第二个通知" />
+
+	<Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="click3"
+        android:text="删除所有的通知" />
+
 
 </LinearLayout>

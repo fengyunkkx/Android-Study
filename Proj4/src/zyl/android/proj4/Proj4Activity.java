@@ -9,6 +9,20 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.AdapterView.OnItemClickListener;
 
+/*
+ * 项目四：用户界面设计三
+ * 用 Toast 显示消息
+ * 用 Notification 显示状态通知
+ * 用 AlertDialog 创建对话框
+ * 自定义对话框
+ * 
+ *  带确定和取消的对话框
+ *  带列表的对话框
+ *  带单选列表项的对话框
+ *  带多选列表项的对话框
+ *
+ */
+
 public class Proj4Activity extends Activity {
     /** Called when the activity is first created. */
     @Override
@@ -47,18 +61,7 @@ public class Proj4Activity extends Activity {
 				}
         
 				
-				/*
-				 * 项目四：用户界面设计三
-				 * 用 Toast 显示消息
-				 * 用 Notification 显示状态通知
-				 * 用 AlertDialog 创建对话框
-				 * 自定义对话框
-				 * 
-				 *  带确定和取消的对话框
-				 *  带列表的对话框
-				 *  带单选列表项的对话框
-				 *  带多选列表项的对话框
-				 *       */
+
 				}
         });
     }
