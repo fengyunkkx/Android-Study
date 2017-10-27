@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<customers>
+	<customer name="我是张三" tel="139232XXXXX" email="zhangsan@126.com"/>
+    <customer name="皮哥" tel="195782XXXXX" email="lichangpi@qq.com"/>
+    <customer name="本少超帅不超神" tel="130196XXXXX" email="xiaobenzi@qq.com" />
+</customers>

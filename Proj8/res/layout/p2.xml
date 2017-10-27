@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <TextView
+        android:id="@+id/str1"
+        android:text="这是红色"
+        android:textColor="@color/color8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+    />
+    <TextView
+        android:id="@+id/str2"
+        android:text="这是橙色"
+        android:textColor="@color/color8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+    />
+    <TextView
+        android:id="@+id/str3"
+        android:text="这是黄色"
+        android:textColor="@color/color8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+    />
+    <TextView
+        android:id="@+id/str4"
+        android:text="这是绿色"
+        android:textColor="@color/color8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+    />
+    <TextView
+        android:id="@+id/str5"
+        android:text="这是青色"
+        android:textColor="@color/color8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+    />
+    <TextView
+        android:id="@+id/str6"
+        android:text="这是蓝色"
+        android:textColor="@color/color8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+    />
+   <TextView
+        android:id="@+id/str7"
+        android:text="这是紫色"
+        android:textColor="@color/color8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+    />
+</LinearLayout>
+

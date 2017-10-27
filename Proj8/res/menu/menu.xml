@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/item1"
+        android:alphabeticShortcut="g"
+        android:title="普通的选项">
+    </item>
+    <item
+        android:id="@+id/item2"
+        android:alphabeticShortcut="e"
+        android:title="多选框的选项">
+        <menu>
+            <group
+                android:id="@+id/setting"
+                android:checkableBehavior="all" >
+                <item
+                    android:id="@+id/sound"
+                    android:title="这是一个多选项">
+                </item>
+                <item
+                    android:id="@+id/video"
+                    android:title="这是另一个多选项">
+                </item>
+            </group>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/item3"
+        android:alphabeticShortcut="r"
+        android:title="又是一个选项">
+    </item>
+    
+
+</menu>

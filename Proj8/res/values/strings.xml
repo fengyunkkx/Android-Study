@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello"></string>
+    <string name="app_name">项目八：资源访问</string>
+	<string name="title">关于  MineCraft</string>
+    <string name="company">这是一款优秀的沙盒游戏</string>
+    <string name="url">游戏官网：https://minecraft.net/zh-hans/</string>
+	<string name="introduce">MineCraft 是一款优质沙盒游戏，近期在国内上线中国版。</string>
+</resources>
