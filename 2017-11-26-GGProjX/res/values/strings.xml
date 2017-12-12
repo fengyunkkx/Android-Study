@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">家庭理财系统</string>
+	<string name="main">家庭理财系统</string>
+    <string name="projxlogin">系统登录</string>
+    <string name="projxaddoutaccount">新增支出</string>
+    <string name="projxaddinaccount">新增收入</string>
+    <string name="projxoutaccountinfo">我的支出</string>
+    <string name="projxinaccountinfo">我的收入</string>
+    <string name="projxshowinfo">数据管理</string>
+    <string name="projxsysset">系统设置</string>
+    <string name="projxaccountflag">收支便签</string>
+    <string name="projxinfomanage">收支管理</string>
+    <string name="projxflagmanage">便签管理</string>
+
+</resources>

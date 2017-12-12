@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="zyl.android.projx"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk android:minSdkVersion="15" />
+
+    <application
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name" >
+        <activity
+            android:name=".ProjXLogin"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ProjXActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".ProjXRegister"
+            android:label="@string/register" >
+        </activity>
+        <activity
+            android:name=".ProjXShowinfo"
+            android:label="@string/projxshowinfo" >
+        </activity>
+        <activity
+            android:name=".ProjXFlagManage"
+            android:label="@string/projxflagmanage" >
+        </activity>
+        <activity
+            android:name=".ProjXAccountflag"
+            android:label="@string/projxaccountflag" >
+        </activity>
+        <activity
+            android:name=".ProjXInfoManage"
+            android:label="@string/projxinfomanage" >
+        </activity>
+        <activity
+            android:name=".ProjXAddOutaccount"
+            android:label="@string/projxaddoutaccount" >
+        </activity>
+        <activity
+            android:name=".ProjXAddInaccount"
+            android:label="@string/projxaddinaccount" >
+        </activity>
+        <activity
+            android:name=".ProjXOutaccountinfo"
+            android:label="@string/projxoutaccountinfo" >
+        </activity>
+        <activity
+            android:name=".ProjXInaccountinfo"
+            android:label="@string/projxinaccountinfo" >
+        </activity>
+        <activity
+            android:name=".ProjXShowinfo"
+            android:label="@string/projxshowinfo" >
+        </activity>
+        <activity
+            android:name=".ProjXSysset"
+            android:label="@string/projxsysset" >
+        </activity>
+        <activity
+            android:name=".ProjXAccountflag"
+            android:label="@string/projxaccountflag" >
+        </activity>
+        <activity
+            android:name=".ProjXFlagManage"
+            android:label="@string/projxflagmanage" >
+        </activity>
+    </application>
+
+</manifest>
